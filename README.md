@@ -1,2 +1,3 @@
 # SpringBoot-Course
 This repository showcases a ToDo List Project developed as part of my SpringBoot learning journey with RocketSeat's course.
+The project highlights my understanding of creating a comprehensive task management application using SpringBoot's powerful features. The application demonstrates the implementation of essential CRUD (Create, Read, Update, Delete) operations, RESTful API development, and integration with a database. The code structure adheres to industry best practices and demonstrates my proficiency in SpringBoot development. Feel free to explore the project and leverage it as a reference for your SpringBoot learning endeavors.
